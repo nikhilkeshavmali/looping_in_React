@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Stranger Things",
+    "image_url": "/images/stranger-things.jpg",
+    "rating": "8.7",
+    "description": "A group of young friends witness supernatural forces and secret government exploits in their small town.",
+    "cast": ["Millie Bobby Brown", "Finn Wolfhard", "David Harbour"],
+    "genre": ["Sci-Fi", "Thriller", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80057281"
+  },
+  {
+    "id": 2,
+    "name": "Money Heist",
+    "image_url": "/images/money-heist.jpg",
+    "rating": "8.2",
+    "description": "A criminal mastermind plans the biggest heist in recorded history — to print billions of euros in the Royal Mint of Spain.",
+    "cast": ["Álvaro Morte", "Úrsula Corberó", "Itziar Ituño"],
+    "genre": ["Crime", "Thriller", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80192098"
+  },
+  {
+    "id": 3,
+    "name": "The Witcher",
+    "image_url": "/images/the-witcher.jpg",
+    "rating": "8.0",
+    "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world.",
+    "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+    "genre": ["Fantasy", "Adventure", "Action"],
+    "watch_url": "https://www.netflix.com/title/80189685"
+  },
+  {
+    "id": 4,
+    "name": "Breaking Bad",
+    "image_url": "/images/breaking-bad.jpg",
+    "rating": "9.5",
+    "description": "A high school chemistry teacher turned methamphetamine producer partners with a former student to secure his family's future.",
+    "cast": ["Bryan Cranston", "Aaron Paul", "Anna Gunn"],
+    "genre": ["Crime", "Drama", "Thriller"],
+    "watch_url": "https://www.netflix.com/title/70143836"
+  },
+  {
+    "id": 5,
+    "name": "The Boys",
+    "image_url": "/images/the-boys.jpg",
+    "rating": "8.6",
+    "description": "A group of vigilantes set out to take down corrupt superheroes who abuse their powers.",
+    "cast": ["Karl Urban", "Jack Quaid", "Antony Starr"],
+    "genre": ["Action", "Comedy", "Crime"],
+    "watch_url": "https://www.primevideo.com/detail/0O3K8QF7H5"
+  }
+]
